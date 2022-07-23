@@ -77,3 +77,5 @@ sheet['A2'] = '2022'
 sheet['A1'].font = Font('Arial', bold=True, size=20)
 sheet['A2'].font = Font('Arial', bold=True, size=10)
 wb.save(r'C:\Users\marvi\OneDrive\Desktop\Projects\Python\report_2022.xlsx')
+
+#Frank Andrade example
